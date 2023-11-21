@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/priere/static/css/main.77880f99.css",
+    "main.js": "/priere/static/js/main.51aa67b8.js",
+    "static/js/787.bd177831.chunk.js": "/priere/static/js/787.bd177831.chunk.js",
+    "static/media/1.jpg": "/priere/static/media/1.bef0f45188360d0c7b8d.jpg",
+    "static/media/5.jpg": "/priere/static/media/5.2e96cb5531a0012d1690.jpg",
+    "static/media/4.jpg": "/priere/static/media/4.1b8d62574d2281adf3b9.jpg",
+    "static/media/2.jpg": "/priere/static/media/2.fb16538ba69ccf477bfd.jpg",
+    "static/media/3.jpg": "/priere/static/media/3.a6eb9ceee40c6ae79077.jpg",
+    "index.html": "/priere/index.html",
+    "main.77880f99.css.map": "/priere/static/css/main.77880f99.css.map",
+    "main.51aa67b8.js.map": "/priere/static/js/main.51aa67b8.js.map",
+    "787.bd177831.chunk.js.map": "/priere/static/js/787.bd177831.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77880f99.css",
+    "static/js/main.51aa67b8.js"
+  ]
+}
